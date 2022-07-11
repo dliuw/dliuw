@@ -11,7 +11,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://instagram.com/dliuw
-[linkedin]: https://linkedin.com/in/david-liuw-a6774b193
+[linkedin]: www.linkedin.com/in/dliuw
 
 <!--
 **dliuw/dliuw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
