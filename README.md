@@ -1,4 +1,4 @@
-### Hi there, I'm David 👋
+### Hi there, I'm David! 👋
 
 ## I'm a web developer 😎 From Indonesia 🇮🇩
 
